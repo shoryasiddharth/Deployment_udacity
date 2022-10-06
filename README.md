@@ -1,3 +1,5 @@
+# Access IP - http://a50f126aaaa854c91a0ae7b1f90e9b79-1496641475.us-east-2.elb.amazonaws.com/
+
 # Deploying a Flask API
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
